@@ -1,0 +1,3 @@
+[submodule "MIL-STD-498-templates-html"]
+	path = MIL-STD-498-templates-html
+	url = git@github.com:VCTLabs/MIL-STD-498-templates-html.git
