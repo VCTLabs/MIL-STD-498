@@ -38,7 +38,7 @@ document with ``make`` or Tox_!  How cool is that?
 .. _Tox: https://tox.wiki/en/latest/user_guide.html
 .. _Software User Manual: https://github.com/VCTLabs/software_user_manual_template
 .. _Software Version Description: https://github.com/VCTLabs/software_version_description_template
-.. _Software Test Report: https://github.com/VCTLabs/software_test_description_template
+.. _Software Test Description: https://github.com/VCTLabs/software_test_description_template
 .. _Software Test Report: https://github.com/VCTLabs/software_test_report_template
 
 MIL-STD-498 GuideBook
