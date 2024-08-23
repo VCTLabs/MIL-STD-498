@@ -16,9 +16,33 @@ For a nice overview of why this is still relevant, see `this link`_.
 
 .. _this link: https://kkovacs.eu/free-project-management-template-mil-std-498
 
+Now Available
+=============
+
+Github template repos for a handful of DIDs with easy-to-consume DID in
+ASCII text format *and* the associated document shell in reStructuredText_
+format. Includes rst style bits and example title pages/system diagram
+(the latter generated with a nice little Python_ script). Build your
+document with ``make`` or Tox_!  How cool is that?
+
+.. note:: More document automation is in progress, in particular support
+          for test case automation. Feel free to contribute via Github!
+
+:SUM: `Software User Manual`_ - an actual user guide
+:SVD: `Software Version Description`_ - detailed release document
+:STD: `Software Test Description`_ - test cases and procedures, tracability matrix
+:STR: `Software Test Report`_ - test analysis and results
+
+.. _reStructuredText: https://docutils.sourceforge.io/rst.html
+.. _Python: https://docs.python.org/3.12/index.html
+.. _Tox: https://tox.wiki/en/latest/user_guide.html
+.. _Software User Manual: https://github.com/VCTLabs/software_user_manual_template
+.. _Software Version Description: https://github.com/VCTLabs/software_version_description_template
+.. _Software Test Report: https://github.com/VCTLabs/software_test_description_template
+.. _Software Test Report: https://github.com/VCTLabs/software_test_report_template
 
 MIL-STD-498 GuideBook
----------------------
+=====================
 
 The GuideBook is in several parts:
 
