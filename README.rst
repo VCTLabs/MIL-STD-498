@@ -29,10 +29,10 @@ document with ``make`` or Tox_!  How cool is that?
 .. note:: More document automation is in progress, in particular support
           for test case automation. Feel free to contribute via Github!
 
-:SUM: `Software User Manual`_ - an actual user guide
-:SVD: `Software Version Description`_ - detailed release document
-:STD: `Software Test Description`_ - test cases and procedures, traceability matrix
-:STR: `Software Test Report`_ - test analysis and results
+:SUM: `System/Software User Manual`_ - an actual user guide
+:SVD: `System/Software Version Description`_ - detailed release document
+:STD: `System/Software Test Description`_ - test cases and procedures, traceability matrix
+:STR: `System/Software Test Report`_ - test analysis and results
 
 MIL-STD-498 template consumers
 ------------------------------
