@@ -29,10 +29,10 @@ document with ``make`` or Tox_!  How cool is that?
 .. note:: More document automation is in progress, in particular support
           for test case automation. Feel free to contribute via Github!
 
-:SUM: `System/Software User Manual`_ - an actual user guide
-:SVD: `System/Software Version Description`_ - detailed release document
-:STD: `System/Software Test Description`_ - test cases and procedures, traceability matrix
-:STR: `System/Software Test Report`_ - test analysis and results
+:SUM: `System / Software User Manual`_ - an actual user guide
+:SVD: `System / Software Version Description`_ - detailed release document
+:STD: `System / Software Test Description`_ - test cases and procedures, traceability matrix
+:STR: `System / Software Test Report`_ - test analysis and results
 
 MIL-STD-498 template consumers
 ------------------------------
@@ -45,10 +45,10 @@ file an issue to let us know about it!
 .. _reStructuredText: https://docutils.sourceforge.io/rst.html
 .. _Python: https://docs.python.org/3.12/index.html
 .. _Tox: https://tox.wiki/en/latest/user_guide.html
-.. _Software User Manual: https://github.com/VCTLabs/software_user_manual_template
-.. _Software Version Description: https://github.com/VCTLabs/software_version_description_template
-.. _Software Test Description: https://github.com/VCTLabs/software_test_description_template
-.. _Software Test Report: https://github.com/VCTLabs/software_test_report_template
+.. _System / Software User Manual: https://github.com/VCTLabs/software_user_manual_template
+.. _System / Software Version Description: https://github.com/VCTLabs/software_version_description_template
+.. _System / Software Test Description: https://github.com/VCTLabs/software_test_description_template
+.. _System / Software Test Report: https://github.com/VCTLabs/software_test_report_template
 .. _timew-addons-sum: https://github.com/sarnold/timew-addons-sum
 .. _timew-addons: https://github.com/sarnold/timew-addons
 
@@ -60,11 +60,12 @@ The GuideBook is published in several parts:
 
 * Overview and Tailoring Guide - 498GBOT.pdf_
 * Application and Reference Guide - 498GBAR.pdf_
-* Application and Reference Guide Sec. 5 - `498GBAR5.pdf_
-* Application and Reference Guide App. A - `498ARAPX.pdf_
+* Application and Reference Guide Sec. 5 - 498GBAR5.pdf_
+* Application and Reference Guide App. A - 498ARAPX.pdf_
 
 .. _498GBOT.pdf: GuideBook/498GBOT.pdf
 .. _498GBAR.pdf: GuideBook/498GBAR.pdf
 .. _498GBAR5.pdf: GuideBook/498GBAR5.pdf
 .. _498ARAPX.pdf: GuideBook/498ARAPX.pdf
 
+Note the above Guidebook URIs are local file links.
