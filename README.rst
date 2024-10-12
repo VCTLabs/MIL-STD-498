@@ -7,6 +7,7 @@ Systems/Software Engineering Document Templates (DIDs) in PDF and HTML
 * Open 498-STD.PDF in the pdf directory to get started
 * See the 498-INFO.pdf for the original announcement
 * HTML format DIDs in git submodule
+* Or try one of the GitHub template repos (see below)
 
 Clone with the following to get the submodule::
 
@@ -30,8 +31,16 @@ document with ``make`` or Tox_!  How cool is that?
 
 :SUM: `Software User Manual`_ - an actual user guide
 :SVD: `Software Version Description`_ - detailed release document
-:STD: `Software Test Description`_ - test cases and procedures, tracability matrix
+:STD: `Software Test Description`_ - test cases and procedures, traceability matrix
 :STR: `Software Test Report`_ - test analysis and results
+
+MIL-STD-498 template consumers
+------------------------------
+
+:timew-addons-sum_: Software User Manual for timew-addons_ (still WIP)
+
+If you happen to have public repository consuming one of the templates, please
+file an issue to let us know about it!
 
 .. _reStructuredText: https://docutils.sourceforge.io/rst.html
 .. _Python: https://docs.python.org/3.12/index.html
@@ -40,11 +49,14 @@ document with ``make`` or Tox_!  How cool is that?
 .. _Software Version Description: https://github.com/VCTLabs/software_version_description_template
 .. _Software Test Description: https://github.com/VCTLabs/software_test_description_template
 .. _Software Test Report: https://github.com/VCTLabs/software_test_report_template
+.. _timew-addons-sum: https://github.com/sarnold/timew-addons-sum
+.. _timew-addons: https://github.com/sarnold/timew-addons
+
 
 MIL-STD-498 GuideBook
 =====================
 
-The GuideBook is in several parts:
+The GuideBook is published in several parts:
 
 * Overview and Tailoring Guide - 498GBOT.pdf_
 * Application and Reference Guide - 498GBAR.pdf_
