@@ -29,13 +29,15 @@ document with ``make`` or Tox_!  How cool is that?
 .. note:: More document automation is in progress, in particular support
           for test case automation. Feel free to contribute via Github!
 
-:SUM: `System / Software User Manual`_ - an actual user guide
-:SVD: `System / Software Version Description`_ - detailed release document
-:STD: `System / Software Test Description`_ - test cases and procedures, traceability matrix
-:STR: `System / Software Test Report`_ - test analysis and results
+:SDD: `Software Design Description`_ - description of detailed SW design
+      (may also include DB and/or interface descriptions)
+:SUM: `Software User Manual`_ - an actual user guide
+:SVD: `Software Version Description`_ - detailed release document
+:STD: `Software Test Description`_ - test cases and procedures, traceability matrix
+:STR: `Software Test Report`_ - test case results and analysis
 
-MIL-STD-498 template consumers
-------------------------------
+Public MIL-STD-498 template consumers
+-------------------------------------
 
 :timew-addons-sum_: Software User Manual for timew-addons_ (still WIP)
 
@@ -45,10 +47,11 @@ file an issue to let us know about it!
 .. _reStructuredText: https://docutils.sourceforge.io/rst.html
 .. _Python: https://docs.python.org/3.12/index.html
 .. _Tox: https://tox.wiki/en/latest/user_guide.html
-.. _System / Software User Manual: https://github.com/VCTLabs/software_user_manual_template
-.. _System / Software Version Description: https://github.com/VCTLabs/software_version_description_template
-.. _System / Software Test Description: https://github.com/VCTLabs/software_test_description_template
-.. _System / Software Test Report: https://github.com/VCTLabs/software_test_report_template
+.. _Software Design Description: https://github.com/VCTLabs/software_design_description_template
+.. _Software User Manual: https://github.com/VCTLabs/software_user_manual_template
+.. _Software Version Description: https://github.com/VCTLabs/software_version_description_template
+.. _Software Test Description: https://github.com/VCTLabs/software_test_description_template
+.. _Software Test Report: https://github.com/VCTLabs/software_test_report_template
 .. _timew-addons-sum: https://github.com/sarnold/timew-addons-sum
 .. _timew-addons: https://github.com/sarnold/timew-addons
 
